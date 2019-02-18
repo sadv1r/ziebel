@@ -1,0 +1,4 @@
+rootProject.name = 'ziebel'
+include 'ziebel-core'
+include 'ziebel-entity'
+

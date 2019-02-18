@@ -1,0 +1,9 @@
+---
+current: local
+---
+servers:
+  local:
+    url:    Siebel://localhost:2321/SBA_82/FINSObjMgr_rus
+    login:  SADMIN
+    pwd:    SADMIN
+    lang:   enu

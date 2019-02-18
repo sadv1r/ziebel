@@ -1,0 +1,18 @@
+# IDEA
+# ----
+.idea/
+/*.iml
+
+# Gradle
+# ------
+.gradle
+build/
+
+target/
+out/
+
+gradle.properties
+
+.DS_Store
+
+/lib
