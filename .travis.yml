@@ -15,7 +15,7 @@ before_script:
   - "curl -H 'Cache-Control: no-cache' https://raw.githubusercontent.com/fossas/fossa-cli/master/install.sh | sudo bash"
 
 script:
-  - gradle check
+#  - gradle check
   - gradle sonarqube
   - fossa init
   - fossa analyze

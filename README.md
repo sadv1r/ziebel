@@ -3,7 +3,7 @@ Ziebel
 [![Build Status](https://travis-ci.org/sadv1r/ziebel.svg?branch=master)](https://travis-ci.org/sadv1r/ziebel)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=ru.sadv1r:ziebel&metric=alert_status)](https://sonarcloud.io/dashboard/index/ru.sadv1r:ziebel)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ru.sadv1r:ziebel&metric=coverage)](https://sonarcloud.io/component_measures?id=ru.sadv1r:ziebel&metric=coverage)
-[![Known Vulnerabilities](https://snyk.io/test/github/sadv1r/ziebel/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/sadv1r/ziebel?targetFile=pom.xml)
+[![Known Vulnerabilities](https://snyk.io/test/github/sadv1r/ziebel/badge.svg?targetFile=build.gradle)](https://snyk.io/test/github/sadv1r/ziebel?targetFile=build.gradle)
 [![FOSSA Status](https://app.fossa.io/api/projects/custom%2B2836%2Fgithub.com%2Fsadv1r%2Fziebel.svg?type=shield)](https://app.fossa.io/projects/custom%2B2836%2Fgithub.com%2Fsadv1r%2Fziebel?ref=badge_shield)
 
 Ziebel enables developers to more easily write applications with Siebel integration.
